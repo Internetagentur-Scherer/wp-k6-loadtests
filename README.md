@@ -24,11 +24,10 @@ docker run --rm -e TARGET_URL=$TARGET_URL -v "$PWD":/src -w /src grafana/k6 run 
 
 ## Inhalt
 
-- scripts/ – k6-Skripte (Start: landingpage.js)
-- docs/ – Überblick & Hinweise
-- results/ – Platz für Reports/Artefakte (enthält .gitkeep)
-- env.example – Beispiel für Umgebungsvariablen
-- .gitignore, .editorconfig – Entwickler-Hygiene
+- `scripts/landingpage.js` – k6-Skripte (Start: landingpage.js)
+- `docs/overview.md` – Überblick & Hinweise
+- `results/.gitkeep` 
+- `env.example`, `.gitignore`, `.editorconfig` 
 - LICENSE – MIT
 
 ## Konfiguration
