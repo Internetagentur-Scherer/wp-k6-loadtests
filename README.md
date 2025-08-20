@@ -48,7 +48,7 @@ Tipp: Tests mit und ohne Cache, um reale Szenarien abzudecken.
 - Load: realistische Last (z. B. 50–100 VUs / 10–15m)
 - Stress: Obergrenze finden (progressiver Ramp-up, bis Fehler sichtbar)
 
-Mehr Details siehe docs/overview.md
+Mehr Details siehe [docs/overview.md](./docs/overview.md)
 
 ## Kontakt
 Internet Agentur Scherer – Webdesign, Online-Marketing & digitale Transformation (seit 1998)  
