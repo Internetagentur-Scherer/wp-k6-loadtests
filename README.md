@@ -1,6 +1,6 @@
 # WP k6 Loadtests – Landingpage & Login (Starter)
 
-Realistische Lasttests für WordPress – als Best Practice, schnell startklar.
+Lasttests für WordPress
 
 ## In 60 Sekunden testen
 ```bash
